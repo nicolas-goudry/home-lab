@@ -48,7 +48,7 @@ It will be connected to the WLAN network.
 
 #### Storage
 
-For content storage, a NAS will be connected to the LAN network. The chosen NAS is the [QNAP TS-453D-8G](https://www.qnap.com/en-uk/product/ts-453d), which has not yet been bought.
+For content storage, a NAS will be connected to the LAN network. The chosen NAS is the [QNAP TS-653D-8G](https://www.qnap.com/en-us/product/ts-653d).
 
 It will only be used to store content and share it to the network through NFS. It will not be exposed to the internet.
 
